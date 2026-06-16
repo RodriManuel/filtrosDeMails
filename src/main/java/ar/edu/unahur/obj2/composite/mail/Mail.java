@@ -1,6 +1,6 @@
 package ar.edu.unahur.obj2.composite.mail;
 
-import ar.edu.unahur.obj2.composite.filtros.DefaultFiltroSimpleStrategy;
+import ar.edu.unahur.obj2.composite.filtros.filtrosSimples.DefaultFiltroSimpleStrategy;
 import ar.edu.unahur.obj2.composite.interfaz.FiltroStrategy;
 
 public class Mail {

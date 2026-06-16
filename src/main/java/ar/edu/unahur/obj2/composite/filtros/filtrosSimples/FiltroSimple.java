@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.composite.filtros;
+package ar.edu.unahur.obj2.composite.filtros.filtrosSimples;
 
 import ar.edu.unahur.obj2.composite.interfaz.FiltroStrategy;
 import ar.edu.unahur.obj2.composite.mail.Mail;
